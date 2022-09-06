@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Bewegungen}{6}{0}{1}
-\beamer@sectionintoc {2}{Kraft und Impuls}{18}{0}{2}
-\beamer@sectionintoc {3}{Arbeit, Energie, Leistung}{26}{0}{3}
-\beamer@sectionintoc {4}{Drehmoment, Tr\IeC {\"a}gheitsmoment, Drehimpuls}{37}{0}{4}
